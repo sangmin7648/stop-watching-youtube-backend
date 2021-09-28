@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/stop_watching_youtube
+    username: root
+    password: 1234
+
+youtube:
+  data-api:
+    key: AIzaSyAh-JI-o6odB9BQ43JmNwPPeDVQDg6vgYs
