@@ -1,5 +1,6 @@
 package com.foo.stopwatchingyoutube.channel.domain;
 
+import com.foo.stopwatchingyoutube.channel.transfer.Channel;
 import lombok.Getter;
 
 import java.util.ArrayList;

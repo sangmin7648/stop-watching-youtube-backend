@@ -1,5 +1,6 @@
 package com.foo.stopwatchingyoutube.category.domain;
 
+import com.foo.stopwatchingyoutube.category.transfer.Category;
 import lombok.Getter;
 
 import java.util.ArrayList;
